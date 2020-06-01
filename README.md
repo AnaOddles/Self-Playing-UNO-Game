@@ -9,6 +9,7 @@ Project Overview:
 -From there shuffle the main deck 
 -Deal 7 cards to each players Int ArrayList hand 
 -Set one card (top card) from the deck to the play pile deck that is an ArrayList
+
 Main matching mechanism by looping through the player hand ArrayList and determine if it contains any of the same color or type 
 
 Classes: 
