@@ -1,6 +1,8 @@
 # Uno-Game
 Console program for a Self-playing Uno game where four computers played Uno against each other until one computer won.
 
+Link to Video: https://www.loom.com/share/8f3975d90a3140c2ab201ec8044fb541
+
 Action Plan:
 Create four main classes to keep our game properties and game logic organized. UnoHands, UnoCards, UnoDecks, and driver program UnoGame. Keep the properties within the classes private and then make a setter and getter for each property. Use the UnoGame class as the class for the game logic and flow. 
 
