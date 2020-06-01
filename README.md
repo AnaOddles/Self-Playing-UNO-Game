@@ -1,5 +1,5 @@
 # Uno-Game
-Console program for a Self-playing Uno game where four computers played Uno against each other until one computer won.
+Console program for a Self-playing Uno game where four computers played Uno against each other until one computer wins.
 
 Link to Video: https://www.loom.com/share/8f3975d90a3140c2ab201ec8044fb541
 
